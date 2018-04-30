@@ -13,7 +13,7 @@ namespace graphivizpp{
             enum Attribute{
                 Graph,
                 Node,
-                Edge;
+                Edge
             };
 
             std::vector statement_list;
