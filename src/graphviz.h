@@ -33,7 +33,7 @@ namespace graphivizpp{
         bool directed = false;
         bool strict = false;
         std::string id = "";
-
+        Layout layout = dot;
     };
 }
 
